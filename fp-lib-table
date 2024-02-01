@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "host-usb-pmod")(type "KiCad")(uri "${KIPRJMOD}/host-usb-pmod.pretty")(options "")(descr ""))
+)
